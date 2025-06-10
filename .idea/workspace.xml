@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9f5da08-1b5e-49b6-8e7d-a309140755b0" name="Changes" comment="" />
+    <list default="true" id="d9f5da08-1b5e-49b6-8e7d-a309140755b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/flutter_bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/flutter_bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/icons/Icon-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/icons/Icon-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/icons/Icon-maskable-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/icons/Icon-maskable-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/main.dart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/manifest.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
